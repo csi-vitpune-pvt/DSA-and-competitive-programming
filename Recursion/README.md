@@ -21,6 +21,8 @@ Combinations - https://leetcode.com/problems/combinations?envType=problem-list-v
 
 Palindrome Partitioning - https://leetcode.com/problems/palindrome-partitioning?envType=problem-list-v2&envId=backtracking
 
+Rat in a Maze - https://www.geeksforgeeks.org/problems/rat-in-a-maze-problem/1
+
 # Hard
 Oops...
 
