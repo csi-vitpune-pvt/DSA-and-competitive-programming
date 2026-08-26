@@ -26,13 +26,13 @@ Strong grasp of recursion + backtracking + variable state updation
 # Hard
 Oops...
 
-Sudoku Solver - https://leetcode.com/problems/sudoku-solver?envType=problem-list-v2&envId=backtracking
+[Sudoku Solver](https://leetcode.com/problems/sudoku-solver?envType=problem-list-v2&envId=backtracking)
 
-N Queen 1 - https://leetcode.com/problems/n-queens?envType=problem-list-v2&envId=backtracking
+[N Queen 1](https://leetcode.com/problems/n-queens?envType=problem-list-v2&envId=backtracking)
 
-N Queen 2 - https://leetcode.com/problems/n-queens-ii?envType=problem-list-v2&envId=backtracking
+[N Queen 2](https://leetcode.com/problems/n-queens-ii?envType=problem-list-v2&envId=backtracking)
 
-Kth Permutation Sequence - https://leetcode.com/problems/permutation-sequence
+[Kth Permutation Sequence](https://leetcode.com/problems/permutation-sequence)
 
 
 
