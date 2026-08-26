@@ -30,11 +30,11 @@ Click on any topic below to view the concepts and practice questions.
 
 * [Recursion](./Recursion/README.md)
 * [Arrays](./Arrays/README.md)
-* [Binary Search](./Binary-Search/README.md)
-* [Linked List](./Linked-List/README.md)
-* [Stack and Queue](./Stack-Queue/README.md)
-* [Two Pointer & Sliding Window](./Two-Pointer-Sliding-Window/README.md)
-* [Bit Manipulation](./Bit-Manipulation/README.md)
+* [Binary_Search](./Binary_Search/README.md)
+* [Linked_List](./Linked_List/README.md)
+* [Stack_and_Queue](./Stack_Queue/README.md)
+* [Two_Pointer_&_Sliding_Window](./Two_Pointer_Sliding_Window/README.md)
+* [Bit_Manipulation](./Bit_Manipulation/README.md)
 * [Maths](./Maths/README.md)
 * [Strings](./Strings/README.md)
 
@@ -43,10 +43,10 @@ Click on any topic below to view the concepts and practice questions.
 
 * [Trees](./Trees/README.md)
 * [Graphs](./Graphs/README.md)
-* [Greedy Algorithms](./Greedy-Algorithms/README.md)
+* [Greedy_Algorithms](./Greedy_Algorithms/README.md)
 * [Heaps](./Heaps/README.md)
 * [Tries](./Tries/README.md)
-* [Dynamic Programming](./Dynamic-Programming/README.md)
+* [Dynamic_Programming](./Dynamic_Programming/README.md)
 
 ## Phase 3 - Extra Algorithms
 
