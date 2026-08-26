@@ -22,7 +22,7 @@ Let's begin.
 
 Before starting, you should be comfortable with at least one programming language. 
 
-* **Recommended:** C++ along with its Standard Template Library (STL). Learning the STL will significantly help you write shorter and more efficient code when solving DSA problems.
+* **Recommended:** C++ along with its [Standard Template Library](https://youtu.be/RRVYpIET_RU?si=c47K2JOy5YS6nyPV) (STL). Learning the STL will significantly help you write shorter and more efficient code when solving DSA problems.
 
 ## Phase 1 - Foundation 
 
